@@ -1,5 +1,5 @@
 trace2.c
 
-Compile with `make'.
+Compile with `make'. Run `trace2' for usage.
 
 See http://frogsonlilypads.com/Counting/#Technique for explanations.
