@@ -1,4 +1,5 @@
-Florian Sobieczky: `trace2'
+trace2.c
 
-See https://prezi.com/xfl1b0182qwl/counting-segments/   for usage.
+Compile with `make'.
 
+See http://frogsonlilypads.com/Counting/#Technique for explanations.
